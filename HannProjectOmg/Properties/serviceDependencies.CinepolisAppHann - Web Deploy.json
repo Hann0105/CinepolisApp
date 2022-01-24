@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/cinepolisapp-dbdbserver/databases/CinepolisApp_DB",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:CinepolisApp_DB",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
