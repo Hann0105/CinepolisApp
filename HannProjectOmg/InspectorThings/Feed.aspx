@@ -4,7 +4,7 @@
 
      <div class="row">
         <div class="col">
-           <h1>Bienvenido Inspector</h1>
+           <h1>Bienvenido Inspector .</h1>
             <hr />
 
              <div class="container">
